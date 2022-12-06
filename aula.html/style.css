@@ -34,12 +34,6 @@ display: flex;
 align-items: center;
 justify-content: space-between;
 }
-nav.logo{
-    font-size: 35px;
-    font-style: italic;
-    color:white;
-    font-weight: bold;
-}
 nav ul{
 list-style: none;
 }
